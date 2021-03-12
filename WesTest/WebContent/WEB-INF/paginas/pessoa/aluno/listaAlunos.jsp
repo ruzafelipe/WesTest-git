@@ -102,7 +102,7 @@ $(function(){
 			<div id="comand_pag" align="center">
 		<button class="btn btn-default" id="anterior" disabled>&lsaquo;Anterior	</button>
 		<span id="numeracao"> </span>
-		<button class="btn btn-default" id="proximo" disabled>Próximo&rsaquo;</button>
+		<button class="btn btn-default" id="proximo" disabled>Prï¿½ximo&rsaquo;</button>
 		</div>
 			
 			</div>
